@@ -1,0 +1,10 @@
+{
+  "description": "Integrates calendar, tasks, notes, and goals into a clean, responsive interface to boost personal productivity and daily planning efficiency.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
